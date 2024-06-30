@@ -8,4 +8,4 @@
 [![Nanda Kishore's LeetCode stats](https://leetcard.jacoblin.cool/NandaKishoreYadav?theme=dark)](https://leetcode.com/u/NandaKishoreYadav/)
 
 ## Geek For Geeks
-[![Nanda Kishore's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=nandakishore230)](https://auth.geeksforgeeks.org/user/nandakishore230)
+[![Nanda Kishore's GeeksforGeeks Stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=nandakishore230)](https://auth.geeksforgeeks.org/user/nandakishore230)
