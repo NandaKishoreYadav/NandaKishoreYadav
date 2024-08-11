@@ -1,4 +1,4 @@
-<<h1 align="center">Hi 👋🏻, I'm Nanda Kishore</h1>
+<h1 align="center">Hi 👋🏻, I'm Nanda Kishore</h1>
 <h3 align="center">AI and Machine Learning Engineer & Problem-Solver</h3>
 
 - 💻 Good at Machine Learning and Competitive Programming
